@@ -8,11 +8,11 @@ A full-stack web app where users pick a car, explore it in 3D, customize paint a
 
 | Home | Catalog |
 |---|---|
-| ![Home](docs/screenshots/home.png) | ![Catalog](docs/screenshots/catalog.png) |
+| ![Home](images/Home.png) | ![Catalog](images/Catalog.png) |
 
 | Configurator | Parts marketplace |
 |---|---|
-| ![Configurator](docs/screenshots/configurator.png) | ![Marketplace](docs/screenshots/marketplace.png) |
+| ![Configurator](images/Mybuilds.png) | ![Marketplace](images/Marketplace.png) |
 
 | Cart & checkout | Admin dashboard |
 |---|---|

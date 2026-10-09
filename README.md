@@ -16,7 +16,7 @@ A full-stack web app where users pick a car, explore it in 3D, customize paint a
 
 | Cart & checkout | Admin dashboard |
 |---|---|
-| ![Cart](docs/screenshots/cart.png) | ![Admin](docs/screenshots/admin.png) |
+| ![Cart](images/Cart.png) | ![Admin](images/adminDashboard.png) |
 
 ## Features
 
